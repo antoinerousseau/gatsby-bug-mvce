@@ -1,6 +1,6 @@
 # Gatsby `UNHANDLED REJECTION` bug: Minimal, Reproducible Example
 
-This is a follow up of https://github.com/gatsbyjs/gatsby/pull/12348#issuecomment-493219565
+https://github.com/gatsbyjs/gatsby/issues/14178
 
 This is the result of `yarn build` with Node v11.14.0:
 
